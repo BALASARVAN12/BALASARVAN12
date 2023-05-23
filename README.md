@@ -1,10 +1,10 @@
 # <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />Hi, I am Bala Sarvan Vudathu 
 [![Linkedin Badge](https://img.shields.io/badge/-BalaSarvan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/)](https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:balasarvanvudathu@gmail.com)](mailto:balasarvanvudathu@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=balasarvan12.balasarvan12)
+
 
 - I’m a Web Developer
-- I am a third-year student in CSE, from GITAM University of Visakhapatnam. 
+- I am a Final year CSE student at GITAM University Visakhapatnam. 
 - 🔭 I’m currently working on Data Structures
 - 👀 I’m interested in Coding and Artifical intelligence
 - 📫 Reach me on linkedin:https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/ -Email:bvudathu@gitam.in
