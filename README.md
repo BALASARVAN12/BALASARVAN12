@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Data Structures
 - 👀 I’m interested in Coding and Artifical intelligence
 - 📫 Reach me on linkedin:https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/ -Email:bvudathu@gitam.in
-<img src="https://github-readme-stats.vercel.app/api?username=balasarvan12&show_icons=true&theme=blue"/>
+<img src="https://github-readme-stats.vercel.app/api?username=balasarvan12&show_icons=true&theme=black"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balasarvan12&layout=compact"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=balasarvan12"/>
 <!---
