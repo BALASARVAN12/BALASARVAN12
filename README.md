@@ -9,7 +9,7 @@
 - 👀 I’m interested in Coding and Artificial intelligence
 - 📫 Reach me on LinkedIn:https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/ -Email:bvudathu@gitam.in
 - <img src="https://github-readme-stats.vercel.app/api?username=balasarvan12&show_icons=true"/>
-- <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
+- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balasarvan12&layout=compact"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=balasarvan12"/>
 <!---
 BALASARVAN12/BALASARVAN12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
