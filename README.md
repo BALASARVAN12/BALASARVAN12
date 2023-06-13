@@ -5,7 +5,7 @@
 
 - I’m a Web Developer
 - I am a Final year CSE student at GITAM University Visakhapatnam. 
-- 🔭 I’m currently working on Data Structures
+- 🔭 I’m currently working on Data Structures.
 - 👀 I’m interested in Coding and Artifical intelligence
 - 📫 Reach me on linkedin:https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/ -Email:bvudathu@gitam.in
 <img src="https://github-readme-stats.vercel.app/api?username=balasarvan12&show_icons=true&theme=black"/>
