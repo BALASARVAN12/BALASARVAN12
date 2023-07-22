@@ -13,7 +13,7 @@
 <p>
 <a href="https://twitter.com/balavudathu" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balasarvan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bala-sarvan-vudathu-643b79227" height="30" width="40" /></a>
-<a href="https://instagram.com/vudathubalasarvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vudathubalasarvan" height="30" width="40" /></a>
+<a href="https://instagram.com/vudathubalasarvan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vudathubalasarvan12" height="30" width="40" /></a>
 
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=balasarvan12&show_icons=true"/>
