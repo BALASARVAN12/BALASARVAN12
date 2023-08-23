@@ -9,16 +9,28 @@
 - 👀 I’m interested in Coding and Artificial intelligence
 - 📫 Reach me on LinkedIn:https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/ -Email:bvudathu@gitam.in
 
-<h3 align="left">Connect with me:</h3>
-<p>
-<a href="https://twitter.com/balavudathu" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balasarvan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bala-sarvan-vudathu-643b79227" height="30" width="40" /></a>
-<a href="https://instagram.com/vudathubalasarvan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vudathubalasarvan12" height="30" width="40" /></a>
+---
+###  Skills :
+### Programming Languages:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50px" />
+</div>
 
-</p>
+### Frontend:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="50px" />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50px" />
+</div>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=balasarvan12&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balasarvan12&layout=compact"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=balasarvan12"/>
+
+
 <!---
 BALASARVAN12/BALASARVAN12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
