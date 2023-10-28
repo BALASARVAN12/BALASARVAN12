@@ -3,13 +3,36 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:balasarvanvudathu@gmail.com)](mailto:balasarvanvudathu@gmail.com)
 
 
-- I’m a Web Developer
+- I’m a Frontend Web Developer and an OpenSource Contributor.
 - I am a Final year CSE student at GITAM University Visakhapatnam. 
 - 🔭 I’m currently working on Data Structures.
-- 👀 I’m interested in Artificial intelligence
+- 👀 I’m interested in Artificial intelligence.
 - 📫 Reach me on LinkedIn:https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/ -Email:bvudathu@gitam.in
 
 ---
+
+### Experience:
+- **Web Developer | Alphanumeric Ideas**
+  - *Intern* (May 2022 - July 2022)
+  - Collaborated with a team to develop and implement new features for the company's web applications.
+  - Developed a Multipage website using Reactjs to showcase the web services provided by the company.
+  - Worked on the Agarwal Packers and Movers website.
+  - Gained hands-on experience with React, enhancing user interface and improving overall user experience.
+
+  
+- **Web Developer | GitHub Community Gitam**
+   -  I have been actively involved in the GitHub club at my university, contributing to various projects.
+---    
+
+### OpenSource Contributions:
+
+- **GirlScript Summer of Code**
+  - Contributed as an Open Source Developer (May 2023 - August 2023)
+  - Collaborated with the GirlScript Foundation on various open-source projects.
+  - Making open-source contributions to the many projects mentioned on GitHub 
+  - Contributed code, and actively participated in the open-source community.
+---
+
 ###  Skills :
 ### Programming Languages:
 <div>
