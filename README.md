@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-BalaSarvan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/)](https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:balasarvanvudathu@gmail.com)](mailto:balasarvanvudathu@gmail.com)
 
-
+### About me
 - I’m a Frontend Web Developer and an OpenSource Contributor.
 - I am a Final year CSE student at GITAM University Visakhapatnam. 
 - 🔭 I’m currently working on Data Structures.
