@@ -1,9 +1,9 @@
 # <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 /> ![image](https://github.com/BALASARVAN12/BALASARVAN12/assets/91976828/c9566470-aa60-4c4f-9089-be011f5227f6)
 
+### About me
 [![Linkedin Badge](https://img.shields.io/badge/-BalaSarvan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/)](https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:balasarvanvudathu@gmail.com)](mailto:balasarvanvudathu@gmail.com)
 
-### About me
 - I’m a Frontend Web Developer and an OpenSource Contributor.
 - I am a Final year CSE student at GITAM University Visakhapatnam. 
 - 🔭 I’m currently working on Data Structures.
