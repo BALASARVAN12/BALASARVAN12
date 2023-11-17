@@ -1,89 +1,49 @@
-# <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 /> ![image](https://github.com/BALASARVAN12/BALASARVAN12/assets/91976828/c9566470-aa60-4c4f-9089-be011f5227f6)
+<h1 align="center">Hi 👋, I'm Bala Sarvan Vudathu</h1>
+<h3 align="center">I am a Final year CSE student at GITAM University Visakhapatnam.</h3>
 
-### About me:
-[![Linkedin Badge](https://img.shields.io/badge/-BalaSarvan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/)](https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:balasarvanvudathu@gmail.com)](mailto:balasarvanvudathu@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balasarvan12&label=Profile%20views&color=0e75b6&style=flat" alt="balasarvan12" /> </p>
 
-- I’m a Frontend Web Developer and an OpenSource Contributor.
-- I am a Final year CSE student at GITAM University Visakhapatnam. 
-- 🔭 I’m currently working on Data Structures.
-- 👀 I’m interested in Artificial intelligence.
-- 📫 Reach me on LinkedIn:https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/ -Email:bvudathu@gitam.in
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balasarvan12" alt="balasarvan12" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/balavudathu" target="blank"><img src="https://img.shields.io/twitter/follow/balavudathu?logo=twitter&style=for-the-badge" alt="balavudathu" /></a> </p>
 
-### Experience:
-- **Web Developer | Alphanumeric Ideas**
-  - *Intern* (May 2022 - July 2022)
-  - Collaborated with a team to develop and implement new features for the company's web applications.
-  - Developed a Multipage website using Reactjs to showcase the web services provided by the company.
-  - Worked on the Agarwal Packers and Movers website.
-  - Gained hands-on experience with React, enhancing user interface and improving overall user experience.
+- 🔭 I’m currently working on [Chrome Extension for Difficult word finder](https://github.com/BALASARVAN12/DifficultWordFinder)
 
-  
-- **Web Developer | GitHub Community Gitam**
-   -  I have been actively involved in the GitHub club at my university, contributing to various projects.
----    
+- 🌱 I’m currently learning **DSA | FULL STACK [MERN] | Artificial Intelligence**
 
-### OpenSource Contributions:
+- 👯 I’m looking to collaborate on **Software Engineering Projects**
 
-- **GirlScript Summer of Code**
-  - Contributed as an Open Source Developer (May 2023 - August 2023)
-  - Collaborated with the GirlScript Foundation on various open-source projects.
-  - Making open-source contributions to the many projects mentioned on GitHub 
-  - Contributed code, and actively participated in the open-source community.
----
+- 💬 Ask me about **Front-End Development and AI/ML**
 
-### Skills:
-**Programming Languages:**
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60px" />
-</div>
+- 📫 How to reach me **balasarvanvudathu@gmail.com**
 
-**Frontend:**
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60px" />        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60px" />            
-</div>
+- 📄 Know about my experiences [https://www.overleaf.com/read/kmqjdkknhxbt#c9afe7](https://www.overleaf.com/read/kmqjdkknhxbt#c9afe7)
 
-**Database:**
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60px" />     
-</div>
+- ⚡ Fun fact **It's not always about hard work; you also need luck.**
 
-**Operating Systems:**
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60px" />                   
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/balavudathu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balavudathu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/balasarvan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="balasarvan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bvudathu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bvudathu" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bvudathu/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bvudathu/profile" height="30" width="40" /></a>
+</p>
 
-**Tools:**
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="60px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60px"/>             
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
----
-### GitHub Profile Stats:
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=balasarvan12&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=balasarvan12&layout=compact"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=balasarvan12"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balasarvan12&show_icons=true&locale=en&layout=compact" alt="balasarvan12" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balasarvan12&show_icons=true&locale=en" alt="balasarvan12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balasarvan12&" alt="balasarvan12" /></p>
+
 Credit: [BalaSarvan Vudathu](https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/)
 
-Last Edited on: 30/10/2023
+Last Edited on: 17/11/2023
 
 <!---
 BALASARVAN12/BALASARVAN12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
