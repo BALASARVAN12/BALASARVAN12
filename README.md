@@ -14,7 +14,7 @@
 
 ### Experience:
 - **Web Developer | Alphanumeric Ideas**
-  - *Intern* (May 2022 - July 2022)
+  - **Intern** (May 2022 - July 2022)
   - Collaborated with a team to develop and implement new features for the company's web applications.
   - Developed a Multipage website using Reactjs to showcase the web services provided by the company.
   - Worked on the Agarwal Packers and Movers website.
