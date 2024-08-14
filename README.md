@@ -14,7 +14,7 @@
 
 ### Experience:
 - **Web Developer | Alphanumeric Ideas**
-  - **Intern** (May 2022 - July 2022)
+  - **Intern** (May 2023 - July 2023)
   - Collaborated with a team to develop and implement new features for the company's web applications.
   - Developed a Multipage website using Reactjs to showcase the web services provided by the company.
   - Worked on the Agarwal Packers and Movers website.
@@ -81,7 +81,7 @@
 ---
 Credit: [BalaSarvan Vudathu](https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/)
 
-Last Edited on: 05/08/2024
+Last Edited on: 14/08/2024
 
 <!---
 BALASARVAN12/BALASARVAN12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
