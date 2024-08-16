@@ -71,10 +71,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60px"/>             
 </div>
 
+---
 ### Certifications:
 <div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d3181b13-d7c7-4a07-aeea-0e5c1975aef1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <img src="https://github.com/user-attachments/assets/a0440ecd-9697-45c8-992e-7af020154a1b" height="100px"/>
+  <img src="https://github.com/user-attachments/assets/05917b37-f163-4063-a191-dc51c2ac4f25" height="100px"/>
+  <img src="https://github.com/user-attachments/assets/d625b671-ffa6-493c-b6c2-8c29e2f14c29" height="100px"/>
+
+
+
+
 </div>
+
+
 ---
 ### GitHub Profile Stats:
 <br>
