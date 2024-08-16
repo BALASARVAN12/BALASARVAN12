@@ -71,6 +71,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60px"/>             
 </div>
 
+### Certifications:
+<div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d3181b13-d7c7-4a07-aeea-0e5c1975aef1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
 ---
 ### GitHub Profile Stats:
 <br>
