@@ -5,10 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:balasarvanvudathu@gmail.com)](mailto:balasarvanvudathu@gmail.com)
 
 - I’m a Frontend Web Developer and an OpenSource Contributor.
-- I am a hard-working engineering graduate specialized in computer science from GITAM University Visakhapatnam. 
+- I am a hard-working engineering graduate specializing in computer science from GITAM University Visakhapatnam. 
 - 🔭 I’m currently working on Data Structures.
 - 👀 I’m interested in Artificial intelligence.
-- 📫 Reach me on LinkedIn:https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/ -Email:bvudathu@gitam.in
+- 📫 Reach me on LinkedIn:https://www.linkedin.com/in/bala-sarvan-vudathu/ -Email:balasarvanvudathu@gmail.com
 
 ---
 
@@ -22,7 +22,8 @@
 
   
 - **Web Developer | GitHub Community Gitam**
-   -  I have been actively involved in the GitHub club at my university, contributing to various projects.
+   -  During my time with the club, I hosted events, coordinated tasks, organized schedules, ensured smooth operations, communicated with team members, and documented events.
+   -  I was also active in the GitHub club, contributing to various projects.
 ---    
 
 ### OpenSource Contributions:
@@ -92,9 +93,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=balasarvan12"/>
 
 ---
-Credit: [BalaSarvan Vudathu](https://www.linkedin.com/in/bala-sarvan-vudathu-643b79227/)
+Credit: [Bala Sarvan Vudathu](https://www.linkedin.com/in/bala-sarvan-vudathu/)
 
-Last Edited on: 16/08/2024
+Last Edited on: 05/09/2024
 
 <!---
 BALASARVAN12/BALASARVAN12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
