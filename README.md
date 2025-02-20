@@ -70,6 +70,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60px" />                   
 </div>
 
+**Cloud:**
+<div>
+<img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="60px" />
+</div>
+
 **Tools:**
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="60px"/> 
