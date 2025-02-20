@@ -52,9 +52,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60px" />            
 </div>
 
+**Backend:**
+<div>
+<img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" height="60px" />
+<img src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000" height="60px" />                   
+</div>
+
 **Database:**
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60px" />     
+<img src="https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000" height="60px"/>
 </div>
 
 **Operating Systems:**
@@ -69,7 +76,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60px"/>             
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60px"/>   
+<img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="60px"/>
 </div>
 
 ---
@@ -95,7 +103,7 @@
 ---
 Credit: [Bala Sarvan Vudathu](https://www.linkedin.com/in/bala-sarvan-vudathu/)
 
-Last Edited on: 05/09/2024
+Last Edited on: 20/02/2025
 
 <!---
 BALASARVAN12/BALASARVAN12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
