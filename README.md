@@ -73,6 +73,7 @@
 **Cloud:**
 <div>
 <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="60px" />
+<img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" height="60px" /> 
 </div>
 
 **Tools:**
@@ -108,7 +109,7 @@
 ---
 Credit: [Bala Sarvan Vudathu](https://www.linkedin.com/in/bala-sarvan-vudathu/)
 
-Last Edited on: 20/02/2025
+Last Edited on: 07/06/2025
 
 <!---
 BALASARVAN12/BALASARVAN12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
